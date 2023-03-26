@@ -80,6 +80,7 @@ header,nav {
   color: hsl(236, 13%, 42%);
   font-size: 13px;
 }
+
 @media (max-width:768px) {
   .main-grid {
     display: flex;
